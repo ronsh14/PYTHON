@@ -8,4 +8,4 @@ print(result)
 from my_math import square
 result = square(4)
 print(result)
-
+print("hello")

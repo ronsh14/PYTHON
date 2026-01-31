@@ -1,0 +1,8 @@
+class Square:
+    def __init__(self):
+        self._length = "this variable is with length 5"
+    def _area(self):
+        return self.length * self.length
+
+square = Square()
+print(square._length)
